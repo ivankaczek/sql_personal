@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">id_emp</Data></Cell>
+			<Cell><Data ss:Type="String">nombre</Data></Cell>
+			<Cell><Data ss:Type="String">sex_emp</Data></Cell>
+			<Cell><Data ss:Type="String">fec_nac</Data></Cell>
+			<Cell><Data ss:Type="String">fec_incorporacion</Data></Cell>
+			<Cell><Data ss:Type="String">sal_emp</Data></Cell>
+			<Cell><Data ss:Type="String">comision_emp</Data></Cell>
+			<Cell><Data ss:Type="String">cargo_emp</Data></Cell>
+			<Cell><Data ss:Type="String">cod_jefe</Data></Cell>
+			<Cell><Data ss:Type="String">id_depto</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+			<Cell><Data ss:Type="String">Darío Casas</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="String">1960-04-05</Data></Cell>
+			<Cell><Data ss:Type="String">1992-11-01</Data></Cell>
+			<Cell><Data ss:Type="Number">4500000</Data></Cell>
+			<Cell><Data ss:Type="Number">500000</Data></Cell>
+			<Cell><Data ss:Type="String">Investigador</Data></Cell>
+			<Cell><Data ss:Type="String">31.840.269</Data></Cell>
+			<Cell><Data ss:Type="Number">3000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+			<Cell><Data ss:Type="String">Diana Solarte</Data></Cell>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="String">1957-11-19</Data></Cell>
+			<Cell><Data ss:Type="String">1990-05-16</Data></Cell>
+			<Cell><Data ss:Type="Number">1250000</Data></Cell>
+			<Cell><Data ss:Type="Number">500000</Data></Cell>
+			<Cell><Data ss:Type="String">Secretaria</Data></Cell>
+			<Cell><Data ss:Type="String">31.840.269</Data></Cell>
+			<Cell><Data ss:Type="Number">1000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">111</Data></Cell>
+			<Cell><Data ss:Type="String">Irene Díaz</Data></Cell>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="String">1979-09-28</Data></Cell>
+			<Cell><Data ss:Type="String">2004-06-01</Data></Cell>
+			<Cell><Data ss:Type="Number">1050000</Data></Cell>
+			<Cell><Data ss:Type="Number">200000</Data></Cell>
+			<Cell><Data ss:Type="String">Mecánico</Data></Cell>
+			<Cell><Data ss:Type="String">333.333.333</Data></Cell>
+			<Cell><Data ss:Type="Number">4200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">144</Data></Cell>
+			<Cell><Data ss:Type="String">Rosa Angulo</Data></Cell>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="String">1957-03-15</Data></Cell>
+			<Cell><Data ss:Type="String">1998-08-16</Data></Cell>
+			<Cell><Data ss:Type="Number">3250000</Data></Cell>
+			<Cell><Data ss:Type="Number">3500000</Data></Cell>
+			<Cell><Data ss:Type="String">Jefe Ventas</Data></Cell>
+			<Cell><Data ss:Type="String">31.840.269</Data></Cell>
+			<Cell><Data ss:Type="Number">2000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">219</Data></Cell>
+			<Cell><Data ss:Type="String">Melissa Roa</Data></Cell>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="String">1960-06-19</Data></Cell>
+			<Cell><Data ss:Type="String">2001-03-16</Data></Cell>
+			<Cell><Data ss:Type="Number">2250000</Data></Cell>
+			<Cell><Data ss:Type="Number">2500000</Data></Cell>
+			<Cell><Data ss:Type="String">Vendedor</Data></Cell>
+			<Cell><Data ss:Type="String">31.178.144</Data></Cell>
+			<Cell><Data ss:Type="Number">2100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">221</Data></Cell>
+			<Cell><Data ss:Type="String">Carla López</Data></Cell>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="String">1975-05-11</Data></Cell>
+			<Cell><Data ss:Type="String">2005-07-16</Data></Cell>
+			<Cell><Data ss:Type="Number">4500000</Data></Cell>
+			<Cell><Data ss:Type="Number">500000</Data></Cell>
+			<Cell><Data ss:Type="String">Jefe Mercadeo</Data></Cell>
+			<Cell><Data ss:Type="String">31.840.269</Data></Cell>
+			<Cell><Data ss:Type="Number">3500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">222</Data></Cell>
+			<Cell><Data ss:Type="String">José Giraldo</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="String">1985-01-20</Data></Cell>
+			<Cell><Data ss:Type="String">2000-11-01</Data></Cell>
+			<Cell><Data ss:Type="Number">1200000</Data></Cell>
+			<Cell><Data ss:Type="Number">400000</Data></Cell>
+			<Cell><Data ss:Type="String">Asesor</Data></Cell>
+			<Cell><Data ss:Type="String">22.222.222</Data></Cell>
+			<Cell><Data ss:Type="Number">3500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">269</Data></Cell>
+			<Cell><Data ss:Type="String">María Rojas</Data></Cell>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="String">1959-01-15</Data></Cell>
+			<Cell><Data ss:Type="String">1990-05-16</Data></Cell>
+			<Cell><Data ss:Type="Number">6250000</Data></Cell>
+			<Cell><Data ss:Type="Number">1500000</Data></Cell>
+			<Cell><Data ss:Type="String">Gerente</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">1000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">331</Data></Cell>
+			<Cell><Data ss:Type="String">Carlos Rozo</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="String">1975-05-11</Data></Cell>
+			<Cell><Data ss:Type="String">2001-09-16</Data></Cell>
+			<Cell><Data ss:Type="Number">750000</Data></Cell>
+			<Cell><Data ss:Type="Number">500000</Data></Cell>
+			<Cell><Data ss:Type="String">Vigilante</Data></Cell>
+			<Cell><Data ss:Type="String">31.840.269</Data></Cell>
+			<Cell><Data ss:Type="Number">3500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">333</Data></Cell>
+			<Cell><Data ss:Type="String">Pedro Blanco</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="String">1987-10-28</Data></Cell>
+			<Cell><Data ss:Type="String">2000-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">800000</Data></Cell>
+			<Cell><Data ss:Type="Number">3000000</Data></Cell>
+			<Cell><Data ss:Type="String">Vendedor</Data></Cell>
+			<Cell><Data ss:Type="String">31.178.144</Data></Cell>
+			<Cell><Data ss:Type="Number">2000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">334</Data></Cell>
+			<Cell><Data ss:Type="String">Marisol Pulido</Data></Cell>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="String">1979-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">1990-05-16</Data></Cell>
+			<Cell><Data ss:Type="Number">3250000</Data></Cell>
+			<Cell><Data ss:Type="Number">1000000</Data></Cell>
+			<Cell><Data ss:Type="String">Investigador</Data></Cell>
+			<Cell><Data ss:Type="String">16.759.060</Data></Cell>
+			<Cell><Data ss:Type="Number">3000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">335</Data></Cell>
+			<Cell><Data ss:Type="String">Ana Moreno</Data></Cell>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="String">1992-01-05</Data></Cell>
+			<Cell><Data ss:Type="String">2004-06-01</Data></Cell>
+			<Cell><Data ss:Type="Number">1200000</Data></Cell>
+			<Cell><Data ss:Type="Number">400000</Data></Cell>
+			<Cell><Data ss:Type="String">Secretaria</Data></Cell>
+			<Cell><Data ss:Type="String">16.759.060</Data></Cell>
+			<Cell><Data ss:Type="Number">3000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">336</Data></Cell>
+			<Cell><Data ss:Type="String">Carolina Ríos</Data></Cell>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="String">1992-02-15</Data></Cell>
+			<Cell><Data ss:Type="String">2000-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">1250000</Data></Cell>
+			<Cell><Data ss:Type="Number">500000</Data></Cell>
+			<Cell><Data ss:Type="String">Secretaria</Data></Cell>
+			<Cell><Data ss:Type="String">16.211.383</Data></Cell>
+			<Cell><Data ss:Type="Number">1500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">337</Data></Cell>
+			<Cell><Data ss:Type="String">Edith Muñoz</Data></Cell>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="String">1992-03-31</Data></Cell>
+			<Cell><Data ss:Type="String">2000-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">800000</Data></Cell>
+			<Cell><Data ss:Type="Number">3600000</Data></Cell>
+			<Cell><Data ss:Type="String">Vendedor</Data></Cell>
+			<Cell><Data ss:Type="String">31.178.144</Data></Cell>
+			<Cell><Data ss:Type="Number">2100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">338</Data></Cell>
+			<Cell><Data ss:Type="String">Abel Gómez</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="String">1939-12-24</Data></Cell>
+			<Cell><Data ss:Type="String">2000-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">1050000</Data></Cell>
+			<Cell><Data ss:Type="Number">200000</Data></Cell>
+			<Cell><Data ss:Type="String">Mecánico</Data></Cell>
+			<Cell><Data ss:Type="String">333.333.333</Data></Cell>
+			<Cell><Data ss:Type="Number">4300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">343</Data></Cell>
+			<Cell><Data ss:Type="String">Elisa Rojas</Data></Cell>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="String">1979-09-28</Data></Cell>
+			<Cell><Data ss:Type="String">2004-06-01</Data></Cell>
+			<Cell><Data ss:Type="Number">3000000</Data></Cell>
+			<Cell><Data ss:Type="Number">1000000</Data></Cell>
+			<Cell><Data ss:Type="String">Jefe Mecánicos</Data></Cell>
+			<Cell><Data ss:Type="String">31.840.269</Data></Cell>
+			<Cell><Data ss:Type="Number">4000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">383</Data></Cell>
+			<Cell><Data ss:Type="String">Luis Pérez</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="String">1956-02-25</Data></Cell>
+			<Cell><Data ss:Type="String">2000-01-01</Data></Cell>
+			<Cell><Data ss:Type="Number">5050000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Director</Data></Cell>
+			<Cell><Data ss:Type="String">31.840.269</Data></Cell>
+			<Cell><Data ss:Type="Number">1500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">444</Data></Cell>
+			<Cell><Data ss:Type="String">Jesús Alfonso</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="String">1988-03-14</Data></Cell>
+			<Cell><Data ss:Type="String">2000-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">800000</Data></Cell>
+			<Cell><Data ss:Type="Number">3500000</Data></Cell>
+			<Cell><Data ss:Type="String">Vendedor</Data></Cell>
+			<Cell><Data ss:Type="String">31.178.144</Data></Cell>
+			<Cell><Data ss:Type="Number">2000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">555</Data></Cell>
+			<Cell><Data ss:Type="String">Julián Mora</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="String">1989-07-03</Data></Cell>
+			<Cell><Data ss:Type="String">2000-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">800000</Data></Cell>
+			<Cell><Data ss:Type="Number">3100000</Data></Cell>
+			<Cell><Data ss:Type="String">Vendedor</Data></Cell>
+			<Cell><Data ss:Type="String">31.178.144</Data></Cell>
+			<Cell><Data ss:Type="Number">2200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">666</Data></Cell>
+			<Cell><Data ss:Type="String">Manuel Millán</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="String">1990-12-08</Data></Cell>
+			<Cell><Data ss:Type="String">2004-06-01</Data></Cell>
+			<Cell><Data ss:Type="Number">800000</Data></Cell>
+			<Cell><Data ss:Type="Number">3700000</Data></Cell>
+			<Cell><Data ss:Type="String">Vendedor</Data></Cell>
+			<Cell><Data ss:Type="String">31.178.144</Data></Cell>
+			<Cell><Data ss:Type="Number">2300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">689</Data></Cell>
+			<Cell><Data ss:Type="String">Mario Llano</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="String">1945-08-30</Data></Cell>
+			<Cell><Data ss:Type="String">1990-05-16</Data></Cell>
+			<Cell><Data ss:Type="Number">2250000</Data></Cell>
+			<Cell><Data ss:Type="Number">2500000</Data></Cell>
+			<Cell><Data ss:Type="String">Vendedor</Data></Cell>
+			<Cell><Data ss:Type="String">31.178.144</Data></Cell>
+			<Cell><Data ss:Type="Number">2300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">777</Data></Cell>
+			<Cell><Data ss:Type="String">Marcos Cortez</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="String">1986-06-23</Data></Cell>
+			<Cell><Data ss:Type="String">2000-04-16</Data></Cell>
+			<Cell><Data ss:Type="Number">2550000</Data></Cell>
+			<Cell><Data ss:Type="Number">500000</Data></Cell>
+			<Cell><Data ss:Type="String">Mecánico</Data></Cell>
+			<Cell><Data ss:Type="String">333.333.333</Data></Cell>
+			<Cell><Data ss:Type="Number">4000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">782</Data></Cell>
+			<Cell><Data ss:Type="String">Antonio Gil</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="String">1980-01-23</Data></Cell>
+			<Cell><Data ss:Type="String">2010-04-16</Data></Cell>
+			<Cell><Data ss:Type="Number">850000</Data></Cell>
+			<Cell><Data ss:Type="Number">1500000</Data></Cell>
+			<Cell><Data ss:Type="String">Técnico</Data></Cell>
+			<Cell><Data ss:Type="String">16.211.383</Data></Cell>
+			<Cell><Data ss:Type="Number">1500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">785</Data></Cell>
+			<Cell><Data ss:Type="String">Joaquín Rosas</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="String">1947-07-07</Data></Cell>
+			<Cell><Data ss:Type="String">1990-05-16</Data></Cell>
+			<Cell><Data ss:Type="Number">2250000</Data></Cell>
+			<Cell><Data ss:Type="Number">2500000</Data></Cell>
+			<Cell><Data ss:Type="String">Vendedor</Data></Cell>
+			<Cell><Data ss:Type="String">31.178.144</Data></Cell>
+			<Cell><Data ss:Type="Number">2200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">802</Data></Cell>
+			<Cell><Data ss:Type="String">William Daza</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="String">1982-10-09</Data></Cell>
+			<Cell><Data ss:Type="String">1999-12-16</Data></Cell>
+			<Cell><Data ss:Type="Number">2250000</Data></Cell>
+			<Cell><Data ss:Type="Number">1000000</Data></Cell>
+			<Cell><Data ss:Type="String">Investigador</Data></Cell>
+			<Cell><Data ss:Type="String">16.759.060</Data></Cell>
+			<Cell><Data ss:Type="Number">3000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">898</Data></Cell>
+			<Cell><Data ss:Type="String">Iván Duarte</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="String">1955-08-12</Data></Cell>
+			<Cell><Data ss:Type="String">1998-05-16</Data></Cell>
+			<Cell><Data ss:Type="Number">1050000</Data></Cell>
+			<Cell><Data ss:Type="Number">200000</Data></Cell>
+			<Cell><Data ss:Type="String">Mecánico</Data></Cell>
+			<Cell><Data ss:Type="String">333.333.333</Data></Cell>
+			<Cell><Data ss:Type="Number">4100</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
